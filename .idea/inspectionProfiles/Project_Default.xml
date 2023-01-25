@@ -1,0 +1,21 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="pandas.io.excel._base.ExcelWriter.book" />
+          <option value="Week5_SQL_Models_Migrations.commerce.auctions.models.Listing.*" />
+          <option value="Week5_SQL_Models_Migrations.commerce.auctions.models.Comment.*" />
+          <option value="Week5_SQL_Models_Migrations.commerce.auctions.models.Bid.*" />
+          <option value="Week5_SQL_Models_Migrations.commerce.auctions.models.Buyer.objects" />
+          <option value="Week5_SQL_Models_Migrations.commerce.auctions.models.WatchList.objects" />
+          <option value="bool.sum" />
+          <option value="Week8_CI_CD.project4.network.models.UserPost.objects" />
+          <option value="Week8_CI_CD.project4.network.models.Following.*" />
+          <option value="Week8_CI_CD.project4.network.models.Like.*" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
